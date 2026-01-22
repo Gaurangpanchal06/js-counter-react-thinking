@@ -21,3 +21,5 @@ This mirrors React’s core philosophy:
 **UI = f(state)**
 
 This exercise helped me understand React conceptually before using it.
+
+Next step: Rebuilding this app using React to compare approaches.
